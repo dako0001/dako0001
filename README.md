@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="160" height="160" src="https://media.discordapp.net/attachments/1133032061259763762/1199100656808624128/pngtree-golden-d-in-3d-lavish-alphabet-of-gleaming-gold-set-against-a-pristine-white-backdrop-vector-png-image_39103984.png?ex=65c15082&is=65aedb82&hm=64c68e0aa5b2ce25df6ab2367ffe512dd99ae77c1b2fede60ccf00f57eb4ae10&=&format=webp&quality=lossless">
+  <img width="160" height="160" src="https://media.discordapp.net/attachments/1133032061259763762/1199322963795791923/dragons-de-rouen-puck-d-logo.png?ex=65c21f8c&is=65afaa8c&hm=b94d2953e4df74d99aae6840627f1fd46d96f7d139440cf01dbcfa36f2d988b4&=&format=webp&quality=lossless&width=326&height=480">
 </p>
 
 <h1 align="center"><b>Hi , I'm Dako </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
