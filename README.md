@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="160" height="160" src="https://media.discordapp.net/attachments/1133032061259763762/1199322963795791923/dragons-de-rouen-puck-d-logo.png?ex=65c21f8c&is=65afaa8c&hm=b94d2953e4df74d99aae6840627f1fd46d96f7d139440cf01dbcfa36f2d988b4&=&format=webp&quality=lossless&width=326&height=480">
+  <img width="160" height="160" src="https://media.discordapp.net/attachments/1074256236821889055/1171577551236366387/Zedk..png?ex=655d2f9f&is=654aba9f&hm=b0c608e951251a4b22539d0c4f768ac71e97a315a770bd4de0231cf60dff64e6&=&width=492&height=473">
 </p>
 
-<h1 align="center"><b>Hi , I'm Dako </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Zipry </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github;++;Developer+FiveM"></a>
@@ -22,9 +22,9 @@
 
 <br><br>
 
-<img src="https://media.discordapp.net/attachments/1133032061259763762/1199102701506670712/gold-luxury-line-png.png?ex=65c1526a&is=65aedd6a&hm=6f9b3d31405c65fdf9fc6b0166a57fccf425723a580dd8c22e7f5f74220f614c&=&format=webp&quality=lossless"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media.discordapp.net/attachments/1133032061259763762/1199103101794254848/44649257.png?ex=65c152c9&is=65aeddc9&hm=56a1cafc5303c89bd61f3c257bb690bef6bcb6d0e1a5ffd80203d18428051d0d&=&format=webp&quality=lossless" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 <p align="center">
 
@@ -70,16 +70,16 @@
 <br>
 
 <li>
-<a href="https://twitter.com/Wail_Dako" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Dako-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://twitter.com/Zpiry_DZ" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  Zipry-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:dako0001dz@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Dako-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:ziprydz206@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Zipry-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -89,7 +89,7 @@
 </div>
 
 <br>
-<img src="https://media.discordapp.net/attachments/1133032061259763762/1199101727434100790/gold-luxury-line-png.png?ex=65c15182&is=65aedc82&hm=45cf1f48afa266e74885cb5a8dfc198f02c86418c7c80fd16590957a45e970c8&=&format=webp&quality=lossless">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <br>
